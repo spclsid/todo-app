@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+  --tw-bg-opacity: 1;
+  background-color:rgba(214, 221, 241, 0.946)
+}
+
